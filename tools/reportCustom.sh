@@ -133,7 +133,7 @@ RESOURCES=(
   "configmaps"
   "secrets"
   "services"
-  "serviceaccount"
+  "serviceaccounts"
   "poddisruptionbudgets"
   "roles"
   "rolebindings"
